@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 buenos dias modif2
+=======
+buenos dias modificacion1
+>>>>>>> refs/remotes/origin/main
